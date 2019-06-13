@@ -1,0 +1,401 @@
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Safari;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Windows
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;10;Firefox;MacOs
+192.168.101.12;27/nov/17;17;11;Firefox;MacOs
+192.168.101.12;27/nov/17;17;11;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;11;Firefox;Windows
+192.168.101.12;27/nov/17;17;11;Firefox;MacOs
+192.168.101.12;27/nov/17;17;11;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;11;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;11;Firefox;Ubuntu
+192.168.101.12;27/nov/17;17;11;Firefox;MacOs
+192.168.101.43;27/nov/17;17;11;Chrome;MacOs
+192.168.101.43;27/nov/17;17;11;Chrome;MacOs
+192.168.101.43;27/nov/17;17;11;Chrome;MacOs
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.43;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;MacOs
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.87;27/nov/17;17;11;Chrome;Windows
+192.168.101.29;27/nov/17;17;11;Chrome;Windows
+192.168.101.29;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.29;27/nov/17;17;11;Chrome;Ubuntu
+192.168.101.29;27/nov/17;17;11;Chrome;Windows
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;Windows
+192.168.101.29;28/nov/17;17;11;Chrome;Windows
+192.168.101.87;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Chrome;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.29;28/nov/17;17;11;Safari;MacOs
+192.168.101.53;28/nov/17;17;11;Safari;MacOs
+192.168.101.53;28/nov/17;17;11;Safari;MacOs
+192.168.101.53;28/nov/17;17;11;Safari;MacOs
+192.168.101.53;28/nov/17;17;11;Safari;MacOs
+192.168.101.53;28/nov/17;17;11;Chrome;Windows
+192.168.101.53;28/nov/17;17;11;Chrome;Windows
+192.168.101.53;28/nov/17;17;11;Chrome;Windows
+192.168.101.53;28/nov/17;17;11;Chrome;Windows
+192.168.101.53;28/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;Windows
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;29/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Chrome;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Firefox;MacOs
+192.168.101.53;30/nov/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;Windows
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Firefox;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;MacOs
+192.168.101.53;01/dez/17;17;11;Safari;Windows
+192.168.101.53;01/dez/17;17;11;Safari;Windows
+192.168.101.53;01/dez/17;17;11;Safari;Windows
+192.168.101.30;02/dez/17;17;11;Safari;Windows
+192.168.101.30;02/dez/17;17;11;Safari;Windows
+192.168.101.30;02/dez/17;17;11;Safari;Windows
+192.168.101.30;02/dez/17;17;11;Safari;Windows
+192.168.101.30;02/dez/17;17;11;Safari;Windows
+192.168.101.53;02/dez/17;17;11;Safari;Windows
+192.168.101.53;02/dez/17;17;11;Safari;Windows
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Windows
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Windows
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Windows
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Windows
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;02/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;03/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;03/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;03/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;03/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;04/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Safari;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.53;05/dez/17;17;11;Intenet Explorer;Ubuntu
+192.168.101.30;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.30;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.30;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.30;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.30;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.30;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.30;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.30;05/dez/17;17;11;Safari;MacOs
+192.168.101.20;05/dez/17;17;11;Safari;MacOs
+192.168.101.20;05/dez/17;17;11;Safari;MacOs
+192.168.101.20;05/dez/17;17;11;Safari;MacOs
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.20;05/dez/17;17;11;Firefox;Ubuntu
+192.168.101.43;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.43;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.43;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.43;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.43;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;05/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;06/dez/17;17;11;Chrome;Ubuntu
+192.168.101.41;06/dez/17;17;11;Firefox;Ubuntu
+192.168.101.41;06/dez/17;17;11;Firefox;Windows
+192.168.101.41;06/dez/17;17;11;Firefox;Windows
+192.168.101.41;06/dez/17;17;11;Firefox;Windows
+192.168.101.41;06/dez/17;17;11;Firefox;Windows
+192.168.101.41;06/dez/17;17;11;Intenet Explorer;Windows
+192.168.101.41;06/dez/17;17;11;Safari;MacOs
+192.168.101.41;06/dez/17;17;11;Safari;MacOs
+192.168.101.20;06/dez/17;17;11;Safari;MacOs
+192.168.101.20;06/dez/17;17;11;Safari;MacOs
+192.168.101.20;06/dez/17;17;11;Safari;MacOs
+192.168.101.20;06/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Safari;MacOs
+192.168.101.20;07/dez/17;17;11;Chrome;Windows
+192.168.101.20;07/dez/17;17;11;Chrome;Windows
+192.168.101.20;07/dez/17;17;11;Chrome;Windows
+192.168.101.20;07/dez/17;17;11;Chrome;Windows
+192.168.101.20;07/dez/17;17;11;Chrome;MacOs

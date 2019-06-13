@@ -1,0 +1,144 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Redes</title>
+<link rel="stylesheet" type="text/css" href="redes.css" >
+</head>
+
+<body>
+<header>
+<center><i><font color="#FFFFFF" face="Elephant" size="+6">PORTFÓLIO DIGITAL</font></i></center>
+<center><i><font color="#FFFFFF" face="Arial Rounded MT Bold" size="+2">PROJETO INTEGRADOR</font></i></center>
+<article>
+	<div class="conteudo">
+	
+		<h2> Fundamentos de Redes de Computadores</h2><br /><br/>
+
+			<p>Atividade proposta:</p>
+ 
+					<p>Criar um relatório técnico explicativo do uso da ferramenta (sugestões: nmap/zenmap) para coleta de informações da rede (faixa de ips, máscaras de redes, serviços e portas abertas). Neste documento deve conter:</p>
+						<p>-um passo a passo sobre como foi o levantamento dos dados da rede, com prints de telas.</p>
+							<p>-descrição dos protocolos de redes responsáveis pelos serviços disponíveis nos servidores.</p><br />
+								<p>Atividade:</p><br />
+									<p>Para  realizar esta atividade escolhemos o sistema operacional Ubuntu. Já aberto o sistema operacional, fomos até o terminal é
+										digitamos  <i>sudo su</i> para obter  previlégios (root).Logo após ter conseguido os privilégios 
+											instalamos o  Zenmap que permite que os utilizadores possam escrever os comandos utilizados na versão de linha de comandos. Outra funcionalidade muito interessante é a criação da topologia da uma rede.
+												Isto permite ao utilizador ter uma visão geral de todos os componentes de uma rede e ligações que existem entre os vários componentes.</p>
+													<p>instalamos  com o seguinte comando no terminal<i>apt-get install zenmap</i>
+														após a instalação digitamos <i>ifconfig</i> no terminal, para aparecer a rede de cabo e via wi-fi. Com esta busca obtemos a rede: 192.168.111.0 é pegamos esta informação, colocamos no  alvo do zenmap.</p>
+															<p>Veja  como ficou:</p><br /><br />
+																<img class="print1" src="imagem/re.png"><center>Primeira imagem </center> <br/><br/><br/>
+															<p>Observe na Primeira imagem que gerou um comando <i>(nmap –T4 –A –v 192.168.111.0-255)</i>.Colocamos o  -255 para mapear toda rede do laboratorio.</p><br />
+														<p>Veja o que ocorreu quando colocamos para mapear a rede:</p><br /><br /><br />
+													<img class="print1" src="imagem/r1.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r2.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r3.png"><br/><br/><br/>
+													<img class="print1"src="imagem/r4.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r5.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r6.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r7.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r8.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r9.png"><br/><br/><br/>
+													<img  class="print1" src="imagem/r10.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r11.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r12.png"><br/><br/><br/>
+													<img	class="print1" src="imagem/r13.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r14.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r15.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r16.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r17.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r18.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r19.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r20.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r21.png"><br/><br/><br/>
+													<img class="print1" src="imagem/r22.png"><br/><br/><br/>
+												<p>Após obter estás informações escolhemos cinco maquinas para  aborda no relatório. Ás maquinas escolhidas são de endereços 192.168.111.15,  192.168.111.16, 192.168.111.18 192.168.111.19 e 192.168.111.20 todos de classe C.</p>
+											<p>Vamos aborda sobre cada maquina escolhida agora:</p> <br /><br />
+										<h2>Primeira maquina de endereço 192.168.1.15</h2><br />
+									<img class="print1" src="imagem/mq1.png"><br/><br/><br/>
+								<p>Podemos observar  algumas informações como o protocolo de versão  3.8 e entre outras informações na imagem.</p><br/><br/><br/>
+							<img class="print1" src="imagem/mq2.png"><br/><br/><br/>
+      						<p>Na imagem podemos perceber alguns serviços como da porta 5800 de protocolo tcp serviço vnc-http versão tightVNC(user:pc-42246; VNC TCP porta 5900)que é uma porta para acessa via JAVA/Web.</p>
+						<p>porta 5900 protocolo tcp estado aberto serviço vnp  versão VNC (protocolo 3.8) que é para acessar  via programa cliente.</p>
+					<img class="print1" src="imagem/mq3.png"><br/><br/><br/>
+				<p>Ainda na primeira maquina podemos observar que:</p>
+				<p>Portas abertas são: duas</p>
+				<p>Portas filtradas são: 998</p>				
+				<p>Portas fechadas são: 0</p>
+				<p>Portas analisadas são: 1000</p>
+				<p> Endereços ipv4: 192.168.111.15. Mascara: 255.255.255.15</p>
+				<p>Ipv6: indisponível</p>
+				<p>Mac:FCAA;14;FCAE;34;</p>
+				<p>Sistema Operacional: Microsoft Windows vista é Windows Server 2008.</p><br /><br />
+	    <h2>Segunda maquina 192.168.111.16</h2>
+			<img class="print1" src="imagem/mq4.png"><br/><br/><br/>
+				<p>MAC Address: FC:AA:14::FC:AE:04 (Giga-byte tecnology)</p>
+				<p>Protocolo versão: 3.8</p><br />
+			<img class="print1" src="imagem/mq5.png"><br/><br/><br/>
+				<p>Nesta imagem podemos perceber alguns serviços como da porta 5800 de protocolo tcp serviço vnc-http versão tightVNC(user:pc-42231;VNC TCP porta 5900)que é para acessa via JAVA/Web.</p>
+				<p>porta 5900 protocolo tcp estado aberto serviço vnp  versão VNC (protocolo 3.8): acessar  via programa cliente.</p></br><br />
+			<img class="print1" src="imagem/mq6.png"><br/><br/><br/>
+				<p>Endereço ipv4: 192.168.111.16</p>
+				<p>mascara: 255.255.255.16</p>
+				<p>ipv6: indisponível</p>
+				<p>Sistemas operacionais:  Microsoft Windows Vista, Windows Serve 2008.</p>
+		<h2>Terceira maquina 192.168.111.18</h2>
+			<img class="print1" src="imagem/mq7.png"><br/><br/><br/>
+				<p> Protocolo de versão: 3.8</p>
+				<p>MAC address: FC:AA:14:FC:AE:OF (giga byte tecnology)</p><br /><br />
+			<img class="print1" src="imagem/mq8.png"><br/><br/><br/>
+				<p>Nesta imagem podemos perceber alguns serviços como da porta 5800 de protocolo tcp serviço vnc-proxyversão sslstrip que é para acessar via java/web</p>
+				<p>Porta 5900 protocolo tcp estado aberto serviço vnp  versão VNC (protocolo 3.8): acessar  via programa cliente.</p>
+			<img class="print1" src="imagem/mq9.png"><br/><br/><br/>
+				<p>Sistema Operacional: Windows Serve 2008 e Windows vista</p>
+				<p>Portas abertas: 2</p>
+				<p>Portas fechadas: 0</p>
+				<p>Portas filtradas: 998</p>
+				<p>Ipv4: 192.168.111.18 mascara 255.255.255.18</p>
+				<p>Pv6: indisponível</p>
+				<p>MAC: FC;AA:14:FCAE:OF</p>
+		<h2>Quarta Maquina 192.168.111.19</h2>
+			<img class="print1" src="imagem/mq10.png"><br/><br/><br/>
+				<p>Protocolo versão 3.8</p>
+				<p>MAC Address: FC:AA:14:FC:AE:24 (giga-byte techmology)</p>
+			<img class="print1" src="imagem/mq11.png"><br/><br/><br/>
+				<p>Porta 5800 protocolo tcp, serviço vnc-http, versão tightvnc(user:pc-42245;vncicp port: 5900) que é acessar via JAVA/Web</p>
+				<p>Porta 5900 protocolo tcp estado aberto serviço vnc versão vnc(protocol 3.8): Acessar via programa cliente.</p><br /><br />
+			<img class="print1" src="imagem/mq12.png"><br/><br/><br/>
+				<p>Portas abertas: 2</p>
+				<p>Portas filtradas: 998</p>
+				<p>Portas fechadas: 0</p>
+				<p>Endereço ipv4 192.168.111.19 mascara 255.255.255.19</p>
+				<p>Ipv6 indisponível</p>
+				<p>Sistema Operacional Windows Vista e Windows Server.</p><br /><br />
+		<h2>Quinta Maquina 192.168.111.20</h2>
+			<img class="print1" src="imagem/mq13.png"><br/><br/><br/>
+				<p>Protocolo versão 3.8</p>
+			    <p>MAC Address: FC:AA:14:FC:AE:24 (giga-byte techmology)</p><br /><br />
+			<img class="print1" src="imagem/mq14.png"><br/><br/><br/>
+				<p>Porta 5800 protocolo tcp estado open serviço vnc-http versão tightvnc(user:pc-42245;vncicp port: 5900)que é para acessar via JAVA/Web</p>
+				<p>Porta 5900 protocolo tcp estado aberto serviço vnc versão vnc(protocolo 3.8):Acessar via programa cliente.</p>
+			<img class="print1" src="imagem/mq15.png"><br/><br/><br/>
+				<p>Portas abertas: 2</p>
+				<p>Portas filtradas: 998</p>
+				<p>Portas fechadas: 0</p>
+				<p>Endereço ipv4: 192.168.111.20</p>
+				<p>mascara: 255.255.255.20</p>
+				<p>Ipv6 indisponível</p>
+				<p>Sistema Operacional Windows Vista e Windows Server.</p><br />
+				<p>Referências:</p><br />
+		<p>https://pplware.sapo.pt/software/nmap-sabe-o-que-e-e-para-que-serve/</p>
+		<p>http://tutorial-info-dica.blogspot.com.br/2012/03/appsnmap-550-ferramenta-para-exploracao.html</p>
+	</div>
+</article>
+
+<footer>		
+	<small><h4>Ismael Derick Brito Cardoso  ©2017</h4> </small>
+	
+</footer>
+	
+		
+</body>
+
+</html>

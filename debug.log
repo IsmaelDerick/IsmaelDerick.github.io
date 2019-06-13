@@ -1,0 +1,5 @@
+[1205/140555.876:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1205/140842.056:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5f27f80 of 512 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[1205/140842.060:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[1205/140904.435:ERROR:process_reader_win.cc(242)] ReadMemory at 0x38b7f80 of 512 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[1205/140904.435:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
